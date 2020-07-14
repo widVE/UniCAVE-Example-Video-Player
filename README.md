@@ -1,5 +1,7 @@
 # UniCAVE Example: Video Player
 
+![Video player scene](video_player.jpg)
+
 This is an example scene for the UniCAVE project. This example scene is designed for use with UniCAVE 2019 or newer.
 
 The UniCAVE project is located at <https://github.com/widve/unicave>.
